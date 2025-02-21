@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="GithubDefaultAccount">
+    <option name="defaultAccountId" value="b8438820-e8e5-4419-bd1e-f000bf72ead9" />
+  </component>
+  <component name="ProjectRootManager" version="2" project-jdk-name="Python 3.12 (FullStackAlgomatics)" project-jdk-type="Python SDK">
+    <output url="file://$PROJECT_DIR$/out" />
+  </component>
+</project>
